@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea594aaa-ba92-4788-ba45-e63710bba054" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../counter-app" beforeDir="false" afterPath="$PROJECT_DIR$/../counter-app" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +25,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1le3jWjU5STX8LPAtKlfXcTZDFX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -153,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607943865801</updated>
-      <workItem from="1607943866974" duration="912000" />
+      <workItem from="1607943866974" duration="1118000" />
     </task>
     <servers />
   </component>
